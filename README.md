@@ -11,8 +11,6 @@ Predict survival using ML models.
 
 ## Models Used
 - Logistic Regression
-- Decision Tree
-- Random Forest
 
 ## Key Insights
 - Females had higher survival rate
